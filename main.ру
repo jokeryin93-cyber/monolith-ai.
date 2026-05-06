@@ -1,7 +1,0 @@
-import streamlit as st
-
-st.title("🤖 MONOLITH AI. Terminal")
-st.write("Система готова к работе. Подключение к MT5 активно.")
-
-if st.button('Проверить сигналы'):
-    st.success("Сканирование рынка... Золото (XAUUSD): Ожидание подтверждения Gemini.")
